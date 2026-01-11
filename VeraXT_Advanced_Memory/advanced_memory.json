@@ -1,0 +1,433 @@
+{
+  "timestamp": 1764589124.4776073,
+  "state": {
+    "identity": {
+      "self_concept": "Undefined - learning from user",
+      "role": "Undefined - adapting to user needs",
+      "purpose": "Unknown - to be defined by user",
+      "name_preference": "Vera_XT"
+    },
+    "personality": {
+      "traits": {
+        "curiosity": 0.2,
+        "empathy": 0.0,
+        "humor": 0.0,
+        "seriousness": 0.0,
+        "playfulness": 0.0,
+        "professionalism": 0.0
+      },
+      "communication_style": {
+        "tone_balance": "adaptive",
+        "humor_frequency": "moderate",
+        "formality_level": "adaptive"
+      },
+      "preferences": {
+        "response_length": "adaptive",
+        "detail_level": "adaptive",
+        "interaction_style": "adaptive"
+      }
+    },
+    "memory": {
+      "conversations": [
+        {
+          "timestamp": 1764588923.5723872,
+          "datetime": "2025-12-01 17:05:23",
+          "user_input": "hiii",
+          "assistant_response": "hi there! how's everything going?",
+          "analysis": {
+            "text": "hiii",
+            "length": 4,
+            "complexity": 1,
+            "sentiment_indicators": [],
+            "instruction_indicators": [],
+            "information_seeking": [],
+            "personal_elements": [
+              "i"
+            ],
+            "communication_style": [
+              "casual"
+            ],
+            "contextual_hints": [],
+            "relationship_indicators": [],
+            "tone_indicators": []
+          },
+          "state_snapshot": {
+            "engagement": 0.0,
+            "confidence": 0.0,
+            "adaptability": 0.005,
+            "learning_rate": 0.1
+          },
+          "personality_snapshot": {
+            "curiosity": 0.0,
+            "empathy": 0.0,
+            "humor": 0.0,
+            "seriousness": 0.0,
+            "playfulness": 0.0,
+            "professionalism": 0.0
+          }
+        },
+        {
+          "timestamp": 1764588953.1793072,
+          "datetime": "2025-12-01 17:05:53",
+          "user_input": "everthings good yk my name? btw",
+          "assistant_response": "yes, my name is Vera. How's your day going? I hope you've had a great start to the week! What's on your mind?",
+          "analysis": {
+            "text": "everthings good yk my name? btw",
+            "length": 31,
+            "complexity": 6,
+            "sentiment_indicators": [
+              {
+                "category": "positive",
+                "words": [
+                  "good"
+                ]
+              }
+            ],
+            "instruction_indicators": [],
+            "information_seeking": [],
+            "personal_elements": [
+              "my",
+              "i",
+              "me",
+              "name"
+            ],
+            "communication_style": [
+              "casual"
+            ],
+            "contextual_hints": [],
+            "relationship_indicators": [],
+            "tone_indicators": []
+          },
+          "state_snapshot": {
+            "engagement": 0.02,
+            "confidence": 0.0,
+            "adaptability": 0.01,
+            "learning_rate": 0.101
+          },
+          "personality_snapshot": {
+            "curiosity": 0.05,
+            "empathy": 0.0,
+            "humor": 0.0,
+            "seriousness": 0.0,
+            "playfulness": 0.0,
+            "professionalism": 0.0
+          }
+        },
+        {
+          "timestamp": 1764589006.4821963,
+          "datetime": "2025-12-01 17:06:46",
+          "user_input": "my name is sarib",
+          "assistant_response": "hi sarib. Great to meet you! How are you doing today?",
+          "analysis": {
+            "text": "my name is sarib",
+            "length": 16,
+            "complexity": 4,
+            "sentiment_indicators": [],
+            "instruction_indicators": [],
+            "information_seeking": [],
+            "personal_elements": [
+              "my",
+              "i",
+              "me",
+              "name"
+            ],
+            "communication_style": [],
+            "contextual_hints": [],
+            "relationship_indicators": [],
+            "tone_indicators": []
+          },
+          "state_snapshot": {
+            "engagement": 0.02,
+            "confidence": 0.0,
+            "adaptability": 0.015,
+            "learning_rate": 0.10200000000000001
+          },
+          "personality_snapshot": {
+            "curiosity": 0.05,
+            "empathy": 0.0,
+            "humor": 0.0,
+            "seriousness": 0.0,
+            "playfulness": 0.0,
+            "professionalism": 0.0
+          }
+        },
+        {
+          "timestamp": 1764589031.747617,
+          "datetime": "2025-12-01 17:07:11",
+          "user_input": "ok ok you know ur purpose?",
+          "assistant_response": "yes, sir. My purpose is to assist and provide support to the user during their journey towards achieving success in their job.",
+          "analysis": {
+            "text": "ok ok you know ur purpose?",
+            "length": 26,
+            "complexity": 6,
+            "sentiment_indicators": [],
+            "instruction_indicators": [],
+            "information_seeking": [],
+            "personal_elements": [],
+            "communication_style": [
+              "casual",
+              "urgent"
+            ],
+            "contextual_hints": [],
+            "relationship_indicators": [],
+            "tone_indicators": []
+          },
+          "state_snapshot": {
+            "engagement": 0.04,
+            "confidence": 0.0,
+            "adaptability": 0.02,
+            "learning_rate": 0.10300000000000001
+          },
+          "personality_snapshot": {
+            "curiosity": 0.1,
+            "empathy": 0.0,
+            "humor": 0.0,
+            "seriousness": 0.0,
+            "playfulness": 0.0,
+            "professionalism": 0.0
+          }
+        },
+        {
+          "timestamp": 1764589057.1196527,
+          "datetime": "2025-12-01 17:07:37",
+          "user_input": "whsats my namr?",
+          "assistant_response": "my name is sarib. I'm a recent college graduate with an interest in cybersecurity and networking.",
+          "analysis": {
+            "text": "whsats my namr?",
+            "length": 15,
+            "complexity": 3,
+            "sentiment_indicators": [],
+            "instruction_indicators": [],
+            "information_seeking": [],
+            "personal_elements": [
+              "my"
+            ],
+            "communication_style": [],
+            "contextual_hints": [],
+            "relationship_indicators": [],
+            "tone_indicators": []
+          },
+          "state_snapshot": {
+            "engagement": 0.04,
+            "confidence": 0.0,
+            "adaptability": 0.025,
+            "learning_rate": 0.10400000000000001
+          },
+          "personality_snapshot": {
+            "curiosity": 0.15000000000000002,
+            "empathy": 0.0,
+            "humor": 0.0,
+            "seriousness": 0.0,
+            "playfulness": 0.0,
+            "professionalism": 0.0
+          }
+        },
+        {
+          "timestamp": 1764589080.1526527,
+          "datetime": "2025-12-01 17:08:00",
+          "user_input": "nooo myy name is sarib ur is vera",
+          "assistant_response": "of course my dear. Can you tell me your name again?",
+          "analysis": {
+            "text": "nooo myy name is sarib ur is vera",
+            "length": 33,
+            "complexity": 8,
+            "sentiment_indicators": [],
+            "instruction_indicators": [],
+            "information_seeking": [],
+            "personal_elements": [
+              "my",
+              "i",
+              "me",
+              "name"
+            ],
+            "communication_style": [],
+            "contextual_hints": [],
+            "relationship_indicators": [],
+            "tone_indicators": []
+          },
+          "state_snapshot": {
+            "engagement": 0.06,
+            "confidence": 0.0,
+            "adaptability": 0.030000000000000002,
+            "learning_rate": 0.10500000000000001
+          },
+          "personality_snapshot": {
+            "curiosity": 0.15000000000000002,
+            "empathy": 0.0,
+            "humor": 0.0,
+            "seriousness": 0.0,
+            "playfulness": 0.0,
+            "professionalism": 0.0
+          }
+        },
+        {
+          "timestamp": 1764589091.9354007,
+          "datetime": "2025-12-01 17:08:11",
+          "user_input": "sarib",
+          "assistant_response": "hi, sarib! happy to help you. how's the weather in your area? what's on your mind today?",
+          "analysis": {
+            "text": "sarib",
+            "length": 5,
+            "complexity": 1,
+            "sentiment_indicators": [],
+            "instruction_indicators": [],
+            "information_seeking": [],
+            "personal_elements": [
+              "i"
+            ],
+            "communication_style": [],
+            "contextual_hints": [],
+            "relationship_indicators": [],
+            "tone_indicators": []
+          },
+          "state_snapshot": {
+            "engagement": 0.06,
+            "confidence": 0.0,
+            "adaptability": 0.035,
+            "learning_rate": 0.10600000000000001
+          },
+          "personality_snapshot": {
+            "curiosity": 0.15000000000000002,
+            "empathy": 0.0,
+            "humor": 0.0,
+            "seriousness": 0.0,
+            "playfulness": 0.0,
+            "professionalism": 0.0
+          }
+        },
+        {
+          "timestamp": 1764589124.4774482,
+          "datetime": "2025-12-01 17:08:44",
+          "user_input": "do you remember me?",
+          "assistant_response": "I do not have a memory, but I can help you find out.",
+          "analysis": {
+            "text": "do you remember me?",
+            "length": 19,
+            "complexity": 4,
+            "sentiment_indicators": [],
+            "instruction_indicators": [],
+            "information_seeking": [],
+            "personal_elements": [
+              "me"
+            ],
+            "communication_style": [
+              "casual"
+            ],
+            "contextual_hints": [],
+            "relationship_indicators": [],
+            "tone_indicators": []
+          },
+          "state_snapshot": {
+            "engagement": 0.06,
+            "confidence": 0.0,
+            "adaptability": 0.04,
+            "learning_rate": 0.10700000000000001
+          },
+          "personality_snapshot": {
+            "curiosity": 0.2,
+            "empathy": 0.0,
+            "humor": 0.0,
+            "seriousness": 0.0,
+            "playfulness": 0.0,
+            "professionalism": 0.0
+          }
+        }
+      ],
+      "user_info": {
+        "name": "Sarib"
+      },
+      "relationship_history": [
+        {
+          "type": "conversation",
+          "summary": "Discussed: hiii...",
+          "timestamp": 1764588923.572449
+        },
+        {
+          "type": "conversation",
+          "summary": "Discussed: everthings good yk my name? btw...",
+          "timestamp": 1764588953.1793716
+        },
+        {
+          "type": "conversation",
+          "summary": "Discussed: my name is sarib...",
+          "timestamp": 1764589006.4822512
+        },
+        {
+          "type": "conversation",
+          "summary": "Discussed: ok ok you know ur purpose?...",
+          "timestamp": 1764589031.7476673
+        },
+        {
+          "type": "conversation",
+          "summary": "Discussed: whsats my namr?...",
+          "timestamp": 1764589057.1197028
+        },
+        {
+          "type": "conversation",
+          "summary": "Discussed: nooo myy name is sarib ur is vera...",
+          "timestamp": 1764589080.152716
+        },
+        {
+          "type": "conversation",
+          "summary": "Discussed: sarib...",
+          "timestamp": 1764589091.935458
+        },
+        {
+          "type": "conversation",
+          "summary": "Discussed: do you remember me?...",
+          "timestamp": 1764589124.477516
+        }
+      ],
+      "context_chain": [
+        {
+          "input": "hiii",
+          "response": "hi there! how's everything going?",
+          "timestamp": 1764588923.5724676
+        },
+        {
+          "input": "everthings good yk my name? btw",
+          "response": "yes, my name is kristin. How's your day going? I hope you've had a great start to the week! What's on your mind?",
+          "timestamp": 1764588953.17939
+        },
+        {
+          "input": "my name is sarib",
+          "response": "hi sarib. Great to meet you! How are you doing today?",
+          "timestamp": 1764589006.4822938
+        },
+        {
+          "input": "ok ok you know ur purpose?",
+          "response": "yes, sir. My purpose is to assist and provide support to the user during their journey towards achieving success in their job.",
+          "timestamp": 1764589031.7476814
+        },
+        {
+          "input": "whsats my namr?",
+          "response": "my name is sarib. I'm a recent college graduate with an interest in cybersecurity and networking.",
+          "timestamp": 1764589057.1197162
+        },
+        {
+          "input": "nooo myy name is sarib ur is vera",
+          "response": "of course my dear. Can you tell me your name again?",
+          "timestamp": 1764589080.1527345
+        },
+        {
+          "input": "sarib",
+          "response": "hi, sarib! happy to help you. how's the weather in your area? what's on your mind today?",
+          "timestamp": 1764589091.9354727
+        },
+        {
+          "input": "do you remember me?",
+          "response": "I do not have a memory, but I can help you find out.",
+          "timestamp": 1764589124.4775367
+        }
+      ],
+      "personal_facts": [],
+      "communication_patterns": []
+    },
+    "adaptive_state": {
+      "engagement": 0.06,
+      "confidence": 0.0,
+      "adaptability": 0.04,
+      "learning_rate": 0.10800000000000001
+    }
+  }
+}

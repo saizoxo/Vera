@@ -1,0 +1,50 @@
+{
+  "api_compatibility": {
+    "chat_completions": {
+      "endpoint": "/v1/chat/completions",
+      "supported_parameters": [
+        "model",
+        "messages",
+        "temperature",
+        "max_tokens",
+        "top_p",
+        "frequency_penalty",
+        "presence_penalty",
+        "stop",
+        "stream",
+        "n",
+        "logit_bias"
+      ]
+    },
+    "completions": {
+      "endpoint": "/v1/completions",
+      "supported_parameters": [
+        "model",
+        "prompt",
+        "temperature",
+        "max_tokens",
+        "top_p",
+        "frequency_penalty",
+        "presence_penalty",
+        "stop",
+        "stream"
+      ]
+    },
+    "embeddings": {
+      "endpoint": "/v1/embeddings",
+      "supported_models": [
+        "text-embedding-ada-002-equivalent"
+      ]
+    },
+    "models": {
+      "endpoint": "/v1/models",
+      "list_available_models": true
+    }
+  },
+  "features": [
+    "streaming_responses",
+    "function_calling",
+    "json_mode",
+    "batch_processing"
+  ]
+}

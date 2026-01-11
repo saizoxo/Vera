@@ -1,0 +1,489 @@
+[
+  {
+    "id": "mem_1764578444_99",
+    "timestamp": 1764578444.3073559,
+    "datetime": "2025-12-01T14:10:44.307362",
+    "type": "enhanced_content",
+    "content": "Advanced machine learning concepts including neural networks, backpropagation, and gradient descent",
+    "category": "knowledge",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:gradient",
+      "keyword:neural",
+      "keyword:machine",
+      "keyword:including",
+      "keyword:concepts",
+      "keyword:descent",
+      "keyword:learning",
+      "keyword:advanced"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "learning",
+    "context": {
+      "importance": 5,
+      "semantic_tags": [
+        "keyword:gradient",
+        "keyword:neural",
+        "keyword:machine",
+        "keyword:including",
+        "keyword:concepts",
+        "keyword:descent",
+        "keyword:learning",
+        "keyword:advanced"
+      ],
+      "emotional_tone": 0.0,
+      "project_context": "learning",
+      "causal_links": [],
+      "related_memories": []
+    }
+  },
+  {
+    "id": "mem_1764578664_99",
+    "timestamp": 1764578664.3795846,
+    "datetime": "2025-12-01T14:14:24.379590",
+    "type": "enhanced_content",
+    "content": "Advanced machine learning concepts including neural networks, backpropagation, and gradient descent",
+    "category": "knowledge",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:concepts",
+      "keyword:descent",
+      "keyword:learning",
+      "keyword:neural",
+      "keyword:advanced",
+      "keyword:including",
+      "keyword:gradient",
+      "keyword:machine"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "learning",
+    "context": {
+      "importance": 5,
+      "semantic_tags": [
+        "keyword:concepts",
+        "keyword:descent",
+        "keyword:learning",
+        "keyword:neural",
+        "keyword:advanced",
+        "keyword:including",
+        "keyword:gradient",
+        "keyword:machine"
+      ],
+      "emotional_tone": 0.0,
+      "project_context": "learning",
+      "causal_links": [],
+      "related_memories": []
+    }
+  },
+  {
+    "id": "mem_1764578664_312",
+    "timestamp": 1764578664.4236512,
+    "datetime": "2025-12-01T14:14:24.423655",
+    "type": "server_training_data",
+    "content": "Prompt: Explain Python decorators in detail with examples.\nResponse: Python decorators are a powerful feature that allows you to modify the behavior of functions or classes without permanently modifying their code. They are essentially functions that take another function as an argument and extend its behavior.",
+    "category": "knowledge",
+    "importance": 6,
+    "semantic_tags": [
+      "keyword:with",
+      "technical:code",
+      "keyword:feature",
+      "keyword:allows",
+      "keyword:detail",
+      "keyword:that",
+      "keyword:extend",
+      "technical:python",
+      "keyword:argument",
+      "keyword:they",
+      "keyword:modifying",
+      "technical:ai",
+      "keyword:python",
+      "technical:function"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [
+      "if"
+    ],
+    "related_memories": [],
+    "project_context": "coding",
+    "context": {
+      "importance": 6,
+      "training_data": true,
+      "topic": "python_programming",
+      "quality_score": 0.85,
+      "semantic_tags": [
+        "keyword:with",
+        "technical:code",
+        "keyword:feature",
+        "keyword:allows",
+        "keyword:detail",
+        "keyword:that",
+        "keyword:extend",
+        "technical:python",
+        "keyword:argument",
+        "keyword:they",
+        "keyword:modifying",
+        "technical:ai",
+        "keyword:python",
+        "technical:function"
+      ],
+      "emotional_tone": 0.0,
+      "project_context": "coding",
+      "related_memories": [],
+      "causal_links": [
+        "if"
+      ]
+    }
+  },
+  {
+    "id": "mem_1764578887_55",
+    "timestamp": 1764578887.4452286,
+    "datetime": "2025-12-01T14:18:07.445232",
+    "type": "learning_request",
+    "content": "User wants to learn about machine learning fundamentals",
+    "category": "knowledge",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:learning",
+      "keyword:learn",
+      "keyword:machine",
+      "keyword:wants",
+      "keyword:user",
+      "keyword:fundamentals",
+      "keyword:about"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "learning",
+    "context": {
+      "importance": 5,
+      "semantic_tags": [
+        "keyword:learning",
+        "keyword:learn",
+        "keyword:machine",
+        "keyword:wants",
+        "keyword:user",
+        "keyword:fundamentals",
+        "keyword:about"
+      ],
+      "emotional_tone": 0.0,
+      "project_context": "learning",
+      "causal_links": [],
+      "related_memories": []
+    }
+  },
+  {
+    "id": "mem_1764578887_148",
+    "timestamp": 1764578887.452051,
+    "datetime": "2025-12-01T14:18:07.452055",
+    "type": "enhanced_training_data",
+    "content": "Topic: machine learning fundamentals\nContent: Comprehensive explanation of machine learning fundamentals with practical examples and applications...",
+    "category": "knowledge",
+    "importance": 6,
+    "semantic_tags": [
+      "keyword:explanation",
+      "keyword:learning",
+      "keyword:comprehensive",
+      "keyword:machine",
+      "keyword:with",
+      "keyword:fundamentals",
+      "keyword:examples",
+      "keyword:practical"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "planning",
+    "context": {
+      "importance": 6,
+      "training_data": true,
+      "topic": "machine learning fundamentals",
+      "quality_score": 0.85,
+      "semantic_tags": [
+        "keyword:explanation",
+        "keyword:learning",
+        "keyword:comprehensive",
+        "keyword:machine",
+        "keyword:with",
+        "keyword:fundamentals",
+        "keyword:examples",
+        "keyword:practical"
+      ],
+      "causal_links": [],
+      "emotional_tone": 0.0,
+      "project_context": "planning",
+      "related_memories": []
+    }
+  },
+  {
+    "id": "mem_1764578887_59",
+    "timestamp": 1764578887.4585152,
+    "datetime": "2025-12-01T14:18:07.458519",
+    "type": "learning_request",
+    "content": "User wants to learn about python programming best practices",
+    "category": "knowledge",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:practices",
+      "keyword:learn",
+      "keyword:programming",
+      "keyword:wants",
+      "keyword:user",
+      "keyword:python",
+      "keyword:best",
+      "technical:python",
+      "keyword:about",
+      "technical:programming"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "coding",
+    "context": {
+      "importance": 5,
+      "semantic_tags": [
+        "keyword:practices",
+        "keyword:learn",
+        "keyword:programming",
+        "keyword:wants",
+        "keyword:user",
+        "keyword:python",
+        "keyword:best",
+        "technical:python",
+        "keyword:about",
+        "technical:programming"
+      ],
+      "emotional_tone": 0.0,
+      "project_context": "coding",
+      "causal_links": [],
+      "related_memories": []
+    }
+  },
+  {
+    "id": "mem_1764578887_156",
+    "timestamp": 1764578887.4627833,
+    "datetime": "2025-12-01T14:18:07.462786",
+    "type": "enhanced_training_data",
+    "content": "Topic: python programming best practices\nContent: Comprehensive explanation of python programming best practices with practical examples and applications...",
+    "category": "knowledge",
+    "importance": 6,
+    "semantic_tags": [
+      "keyword:practices",
+      "keyword:explanation",
+      "keyword:comprehensive",
+      "keyword:programming",
+      "keyword:with",
+      "keyword:python",
+      "keyword:best",
+      "technical:python",
+      "keyword:examples",
+      "technical:programming",
+      "keyword:practical"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "coding",
+    "context": {
+      "importance": 6,
+      "training_data": true,
+      "topic": "python programming best practices",
+      "quality_score": 0.85,
+      "semantic_tags": [
+        "keyword:practices",
+        "keyword:explanation",
+        "keyword:comprehensive",
+        "keyword:programming",
+        "keyword:with",
+        "keyword:python",
+        "keyword:best",
+        "technical:python",
+        "keyword:examples",
+        "technical:programming",
+        "keyword:practical"
+      ],
+      "causal_links": [],
+      "emotional_tone": 0.0,
+      "project_context": "coding",
+      "related_memories": []
+    }
+  },
+  {
+    "id": "mem_1764578887_47",
+    "timestamp": 1764578887.466694,
+    "datetime": "2025-12-01T14:18:07.466700",
+    "type": "learning_request",
+    "content": "User wants to learn about data science concepts",
+    "category": "knowledge",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:learn",
+      "keyword:wants",
+      "keyword:concepts",
+      "keyword:user",
+      "keyword:data",
+      "technical:data",
+      "keyword:about",
+      "keyword:science"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "learning",
+    "context": {
+      "importance": 5,
+      "semantic_tags": [
+        "keyword:learn",
+        "keyword:wants",
+        "keyword:concepts",
+        "keyword:user",
+        "keyword:data",
+        "technical:data",
+        "keyword:about",
+        "keyword:science"
+      ],
+      "emotional_tone": 0.0,
+      "project_context": "learning",
+      "causal_links": [],
+      "related_memories": []
+    }
+  },
+  {
+    "id": "mem_1764578887_132",
+    "timestamp": 1764578887.4721587,
+    "datetime": "2025-12-01T14:18:07.472161",
+    "type": "enhanced_training_data",
+    "content": "Topic: data science concepts\nContent: Comprehensive explanation of data science concepts with practical examples and applications...",
+    "category": "knowledge",
+    "importance": 6,
+    "semantic_tags": [
+      "keyword:explanation",
+      "keyword:comprehensive",
+      "keyword:science",
+      "keyword:with",
+      "keyword:concepts",
+      "keyword:data",
+      "technical:data",
+      "keyword:examples",
+      "keyword:practical"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "planning",
+    "context": {
+      "importance": 6,
+      "training_data": true,
+      "topic": "data science concepts",
+      "quality_score": 0.85,
+      "semantic_tags": [
+        "keyword:explanation",
+        "keyword:comprehensive",
+        "keyword:science",
+        "keyword:with",
+        "keyword:concepts",
+        "keyword:data",
+        "technical:data",
+        "keyword:examples",
+        "keyword:practical"
+      ],
+      "causal_links": [],
+      "emotional_tone": 0.0,
+      "project_context": "planning",
+      "related_memories": []
+    }
+  },
+  {
+    "id": "mem_1764578887_56",
+    "timestamp": 1764578887.4793344,
+    "datetime": "2025-12-01T14:18:07.479337",
+    "type": "learning_request",
+    "content": "User wants to learn about artificial intelligence ethics",
+    "category": "knowledge",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:artificial",
+      "keyword:learn",
+      "keyword:intelligence",
+      "keyword:wants",
+      "keyword:user",
+      "keyword:ethics",
+      "keyword:about"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [
+      "if"
+    ],
+    "related_memories": [],
+    "project_context": "learning",
+    "context": {
+      "importance": 5,
+      "semantic_tags": [
+        "keyword:artificial",
+        "keyword:learn",
+        "keyword:intelligence",
+        "keyword:wants",
+        "keyword:user",
+        "keyword:ethics",
+        "keyword:about"
+      ],
+      "emotional_tone": 0.0,
+      "project_context": "learning",
+      "causal_links": [
+        "if"
+      ],
+      "related_memories": []
+    }
+  },
+  {
+    "id": "mem_1764578887_150",
+    "timestamp": 1764578887.4828298,
+    "datetime": "2025-12-01T14:18:07.482832",
+    "type": "enhanced_training_data",
+    "content": "Topic: artificial intelligence ethics\nContent: Comprehensive explanation of artificial intelligence ethics with practical examples and applications...",
+    "category": "knowledge",
+    "importance": 6,
+    "semantic_tags": [
+      "keyword:explanation",
+      "keyword:artificial",
+      "keyword:intelligence",
+      "keyword:comprehensive",
+      "keyword:with",
+      "keyword:ethics",
+      "keyword:examples",
+      "keyword:practical"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [
+      "if"
+    ],
+    "related_memories": [],
+    "project_context": "planning",
+    "context": {
+      "importance": 6,
+      "training_data": true,
+      "topic": "artificial intelligence ethics",
+      "quality_score": 0.85,
+      "semantic_tags": [
+        "keyword:explanation",
+        "keyword:artificial",
+        "keyword:intelligence",
+        "keyword:comprehensive",
+        "keyword:with",
+        "keyword:ethics",
+        "keyword:examples",
+        "keyword:practical"
+      ],
+      "causal_links": [
+        "if"
+      ],
+      "emotional_tone": 0.0,
+      "project_context": "planning",
+      "related_memories": []
+    }
+  }
+]

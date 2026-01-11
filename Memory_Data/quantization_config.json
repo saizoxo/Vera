@@ -1,0 +1,77 @@
+{
+  "supported_types": [
+    "Q4_0",
+    "Q4_1",
+    "Q5_0",
+    "Q5_1",
+    "Q8_0",
+    "Q2_K",
+    "Q3_K_S",
+    "Q3_K_M",
+    "Q3_K_L",
+    "Q4_K_S",
+    "Q4_K_M",
+    "Q5_K_S",
+    "Q5_K_M",
+    "Q6_K",
+    "Q8_K",
+    "IQ2_XXS",
+    "IQ2_XS",
+    "IQ3_XXS",
+    "IQ1_S",
+    "IQ2_S",
+    "IQ2_M",
+    "IQ3_S",
+    "IQ3_M",
+    "IQ4_NL",
+    "IQ4_XS"
+  ],
+  "performance_profiles": {
+    "Q2_K": {
+      "size_factor": 0.2,
+      "speed": "fastest",
+      "quality": "low"
+    },
+    "Q4_K_M": {
+      "size_factor": 0.4,
+      "speed": "fast",
+      "quality": "good"
+    },
+    "Q5_K_M": {
+      "size_factor": 0.5,
+      "speed": "balanced",
+      "quality": "very_good"
+    },
+    "Q6_K": {
+      "size_factor": 0.6,
+      "speed": "slow",
+      "quality": "excellent"
+    },
+    "Q8_K": {
+      "size_factor": 0.8,
+      "speed": "slowest",
+      "quality": "best"
+    }
+  },
+  "automatic_selection": {
+    "criteria": [
+      "device_memory",
+      "performance_requirements",
+      "quality_needs"
+    ],
+    "recommendations": {
+      "mobile": [
+        "Q4_K_M",
+        "Q5_K_M"
+      ],
+      "desktop": [
+        "Q5_K_M",
+        "Q6_K"
+      ],
+      "server": [
+        "Q6_K",
+        "Q8_K"
+      ]
+    }
+  }
+}

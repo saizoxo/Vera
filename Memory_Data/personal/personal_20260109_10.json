@@ -1,0 +1,120 @@
+[
+  {
+    "id": "mem_1767935910_50",
+    "timestamp": 1767935910.7989058,
+    "datetime": "2026-01-09T10:48:30.798910",
+    "type": "learning_goal",
+    "content": "Goal: Master Python programming for AI development",
+    "category": "personal",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:development",
+      "technical:programming",
+      "keyword:python",
+      "technical:ai",
+      "keyword:master",
+      "keyword:programming",
+      "technical:python"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "coding",
+    "context": {
+      "importance": 5,
+      "semantic_tags": [
+        "keyword:development",
+        "technical:programming",
+        "keyword:python",
+        "technical:ai",
+        "keyword:master",
+        "keyword:programming",
+        "technical:python"
+      ],
+      "emotional_tone": 0.0,
+      "project_context": "coding",
+      "causal_links": [],
+      "related_memories": []
+    }
+  },
+  {
+    "id": "mem_1767935910_49",
+    "timestamp": 1767935910.80323,
+    "datetime": "2026-01-09T10:48:30.803233",
+    "type": "action_taken",
+    "content": "Started Python course and practicing daily coding",
+    "category": "personal",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:practicing",
+      "keyword:python",
+      "keyword:daily",
+      "keyword:course",
+      "technical:ai",
+      "technical:python",
+      "keyword:started",
+      "keyword:coding"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "coding",
+    "context": {
+      "importance": 5,
+      "semantic_tags": [
+        "keyword:practicing",
+        "keyword:python",
+        "keyword:daily",
+        "keyword:course",
+        "technical:ai",
+        "technical:python",
+        "keyword:started",
+        "keyword:coding"
+      ],
+      "emotional_tone": 0.0,
+      "project_context": "coding",
+      "causal_links": [],
+      "related_memories": []
+    }
+  },
+  {
+    "id": "mem_1767935910_53",
+    "timestamp": 1767935910.8087218,
+    "datetime": "2026-01-09T10:48:30.808726",
+    "type": "learning_result",
+    "content": "Improved Python skills and completed first AI project",
+    "category": "personal",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:improved",
+      "keyword:python",
+      "keyword:skills",
+      "keyword:project",
+      "technical:ai",
+      "keyword:completed",
+      "technical:python",
+      "keyword:first"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "coding",
+    "context": {
+      "importance": 5,
+      "semantic_tags": [
+        "keyword:improved",
+        "keyword:python",
+        "keyword:skills",
+        "keyword:project",
+        "technical:ai",
+        "keyword:completed",
+        "technical:python",
+        "keyword:first"
+      ],
+      "emotional_tone": 0.0,
+      "project_context": "coding",
+      "causal_links": [],
+      "related_memories": []
+    }
+  }
+]

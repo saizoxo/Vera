@@ -1,0 +1,82 @@
+[
+  {
+    "id": "mem_1764573309_19",
+    "timestamp": 1764573309.2351422,
+    "datetime": "2025-12-01T12:45:09.235147",
+    "type": "user_input",
+    "content": "Hello, how are you?",
+    "context": {},
+    "category": "conversation",
+    "importance": 3
+  },
+  {
+    "id": "mem_1764573309_26",
+    "timestamp": 1764573309.2373414,
+    "datetime": "2025-12-01T12:45:09.237345",
+    "type": "assistant_response",
+    "content": "I'm doing well, thank you!",
+    "context": {},
+    "category": "conversation",
+    "importance": 3
+  },
+  {
+    "id": "mem_1764573581_19",
+    "timestamp": 1764573581.8356986,
+    "datetime": "2025-12-01T12:49:41.835706",
+    "type": "user_input",
+    "content": "Hello, how are you?",
+    "context": {},
+    "category": "conversation",
+    "importance": 3
+  },
+  {
+    "id": "mem_1764573581_26",
+    "timestamp": 1764573581.8448806,
+    "datetime": "2025-12-01T12:49:41.844886",
+    "type": "assistant_response",
+    "content": "I'm doing well, thank you!",
+    "context": {},
+    "category": "conversation",
+    "importance": 3
+  },
+  {
+    "id": "mem_1764573581_27",
+    "timestamp": 1764573581.8752394,
+    "datetime": "2025-12-01T12:49:41.875244",
+    "type": "user_input",
+    "content": "Testing conversation memory",
+    "context": {},
+    "category": "conversation",
+    "importance": 3
+  },
+  {
+    "id": "mem_1764573668_19",
+    "timestamp": 1764573668.8846037,
+    "datetime": "2025-12-01T12:51:08.884609",
+    "type": "user_input",
+    "content": "Hello, how are you?",
+    "context": {},
+    "category": "conversation",
+    "importance": 3
+  },
+  {
+    "id": "mem_1764573668_26",
+    "timestamp": 1764573668.8870707,
+    "datetime": "2025-12-01T12:51:08.887074",
+    "type": "assistant_response",
+    "content": "I'm doing well, thank you!",
+    "context": {},
+    "category": "conversation",
+    "importance": 3
+  },
+  {
+    "id": "mem_1764573668_27",
+    "timestamp": 1764573668.907611,
+    "datetime": "2025-12-01T12:51:08.907614",
+    "type": "user_input",
+    "content": "Testing conversation memory",
+    "context": {},
+    "category": "conversation",
+    "importance": 3
+  }
+]

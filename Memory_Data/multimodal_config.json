@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "features": [
+    "text_processing",
+    "image_description",
+    "visual_question_answering",
+    "cross_modal_retrieval"
+  ],
+  "models": {
+    "text_model": "current_model.gguf",
+    "vision_model": "multimodal_projector.gguf"
+  },
+  "api_endpoints": [
+    "/v1/chat/completions",
+    "/v1/multimodal",
+    "/v1/embeddings",
+    "/v1/reranking"
+  ]
+}

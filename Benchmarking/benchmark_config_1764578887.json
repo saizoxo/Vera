@@ -1,0 +1,59 @@
+{
+  "timestamp": 1764578887.6251013,
+  "test_scenarios": [
+    {
+      "name": "simple_greeting",
+      "input": "Hello",
+      "expected_type": "greeting"
+    },
+    {
+      "name": "technical_query",
+      "input": "Explain neural networks",
+      "expected_type": "technical_explanation"
+    },
+    {
+      "name": "memory_recall",
+      "input": "What did I ask before?",
+      "expected_type": "memory_recall"
+    },
+    {
+      "name": "creative_task",
+      "input": "Write a short poem",
+      "expected_type": "creative"
+    },
+    {
+      "name": "planning_task",
+      "input": "How should I learn Python?",
+      "expected_type": "advisory"
+    }
+  ],
+  "performance_metrics": {
+    "response_times": [],
+    "memory_usage": [],
+    "accuracy_scores": []
+  },
+  "system_config": {
+    "model_loaded": false,
+    "current_model": null,
+    "short_term_memory_count": 0,
+    "emotional_sensitivity": 0.0,
+    "adaptation_level": 0.0,
+    "learned_word_count": 0,
+    "learned_categories": [],
+    "available_models": [
+      "tinyllama-1.1b-chat-v1.0-q4_k_m.gguf"
+    ],
+    "learned_response_patterns": {},
+    "model_interface_connected": false,
+    "api_training_mode": false,
+    "consistency_status": {
+      "sync_events_count": 0,
+      "knowledge_diffs_count": 0,
+      "pattern_transfers_count": 0,
+      "last_sync_time": 0,
+      "sync_interval": 300
+    },
+    "server_integration_active": false,
+    "server_capabilities": null
+  }
+}

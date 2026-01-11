@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.log
+.env
+venv/
+benv/
+node_modules/
+dist/
+build/
+.cache/
+*.zip
+*.tar
+*.tar.gz
+*.mp4
+*.bin

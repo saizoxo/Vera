@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mem_1764574559_22",
+    "timestamp": 1764574559.9326928,
+    "datetime": "2025-12-01T13:05:59.932698",
+    "type": "skill",
+    "content": "How to write functions",
+    "category": "skill",
+    "importance": 5,
+    "semantic_tags": [
+      "technical:function",
+      "keyword:write",
+      "keyword:functions"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "coding",
+    "context": {
+      "semantic_tags": [
+        "technical:function",
+        "keyword:write",
+        "keyword:functions"
+      ],
+      "emotional_tone": 0.0,
+      "importance": 5,
+      "project_context": "coding",
+      "related_memories": [],
+      "causal_links": []
+    }
+  }
+]

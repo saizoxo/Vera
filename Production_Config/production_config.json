@@ -1,0 +1,60 @@
+{
+  "deployment_info": {
+    "name": "Vera_XT_Production",
+    "version": "1.0.0",
+    "timestamp": 1764583492.5148752,
+    "status": "READY_FOR_DEPLOYMENT"
+  },
+  "model_configuration": {
+    "primary_model": "tinyllama-1.1b-chat-v1.0-q4_k_m.gguf",
+    "quantization": "Q4_K_M",
+    "context_size": 4096,
+    "max_tokens": 512,
+    "temperature": 0.7,
+    "top_p": 0.9
+  },
+  "server_configuration": {
+    "host": "0.0.0.0",
+    "port": 8080,
+    "threads": 4,
+    "parallel_requests": 4,
+    "enable_streaming": true,
+    "enable_embeddings": true,
+    "enable_openai_api": true
+  },
+  "hardware_optimization": {
+    "acceleration_enabled": true,
+    "gpu_layers": -1,
+    "batch_size": 512,
+    "ubatch_size": 512,
+    "memory_friendly": true
+  },
+  "api_endpoints": [
+    "/v1/chat/completions",
+    "/v1/completions",
+    "/v1/embeddings",
+    "/v1/models",
+    "/v1/tokenize",
+    "/v1/health"
+  ],
+  "features_enabled": [
+    "multimodal_processing",
+    "openai_compatibility",
+    "streaming_responses",
+    "batch_processing",
+    "memory_optimization",
+    "performance_monitoring"
+  ],
+  "security": {
+    "rate_limiting": true,
+    "request_validation": true,
+    "memory_protection": true,
+    "api_authentication": false
+  },
+  "monitoring": {
+    "performance_metrics": true,
+    "request_logging": true,
+    "error_tracking": true,
+    "health_checks": true
+  }
+}

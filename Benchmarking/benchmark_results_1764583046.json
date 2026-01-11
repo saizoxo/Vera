@@ -1,0 +1,76 @@
+{
+  "timestamp": 1764583046.8398483,
+  "total_scenarios": 5,
+  "total_time": 0.0002624988555908203,
+  "overall_metrics": {
+    "response_time": {
+      "average": 6.4849853515625e-06,
+      "median": 6.198883056640625e-06,
+      "min": 5.0067901611328125e-06,
+      "max": 8.344650268554688e-06,
+      "std_dev": 1.208666978419931e-06
+    },
+    "quality_score": {
+      "average": 0.84,
+      "median": 0.85,
+      "min": 0.75,
+      "max": 0.9
+    },
+    "tokens_generated": {
+      "total": 96,
+      "average": 19.2,
+      "min": 7,
+      "max": 26
+    },
+    "throughput": {
+      "tokens_per_second": 2960685.1764705884
+    }
+  },
+  "individual_results": [
+    {
+      "scenario_name": "simple_greeting",
+      "input": "Hello",
+      "expected_type": "greeting",
+      "response_time": 6.67572021484375e-06,
+      "tokens_generated": 7,
+      "quality_score": 0.9,
+      "timestamp": 1764583046.8379223
+    },
+    {
+      "scenario_name": "technical_query",
+      "input": "Explain neural networks",
+      "expected_type": "technical_explanation",
+      "response_time": 8.344650268554688e-06,
+      "tokens_generated": 25,
+      "quality_score": 0.85,
+      "timestamp": 1764583046.8379946
+    },
+    {
+      "scenario_name": "memory_recall",
+      "input": "What did I ask before?",
+      "expected_type": "memory_recall",
+      "response_time": 5.0067901611328125e-06,
+      "tokens_generated": 15,
+      "quality_score": 0.8,
+      "timestamp": 1764583046.8380406
+    },
+    {
+      "scenario_name": "creative_task",
+      "input": "Write a short poem",
+      "expected_type": "creative",
+      "response_time": 6.198883056640625e-06,
+      "tokens_generated": 26,
+      "quality_score": 0.75,
+      "timestamp": 1764583046.8380802
+    },
+    {
+      "scenario_name": "planning_task",
+      "input": "How should I learn Python?",
+      "expected_type": "advisory",
+      "response_time": 6.198883056640625e-06,
+      "tokens_generated": 23,
+      "quality_score": 0.9,
+      "timestamp": 1764583046.8381245
+    }
+  ]
+}

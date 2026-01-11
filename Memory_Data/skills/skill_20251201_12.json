@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mem_1764573309_22",
+    "timestamp": 1764573309.246382,
+    "datetime": "2025-12-01T12:45:09.246386",
+    "type": "skill",
+    "content": "How to write functions",
+    "context": {},
+    "category": "skill",
+    "importance": 3
+  },
+  {
+    "id": "mem_1764573581_22",
+    "timestamp": 1764573581.8555248,
+    "datetime": "2025-12-01T12:49:41.855529",
+    "type": "skill",
+    "content": "How to write functions",
+    "context": {},
+    "category": "skill",
+    "importance": 3
+  },
+  {
+    "id": "mem_1764573668_22",
+    "timestamp": 1764573668.8927836,
+    "datetime": "2025-12-01T12:51:08.892788",
+    "type": "skill",
+    "content": "How to write functions",
+    "context": {},
+    "category": "skill",
+    "importance": 3
+  }
+]

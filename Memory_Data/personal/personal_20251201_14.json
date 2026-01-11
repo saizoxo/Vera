@@ -1,0 +1,250 @@
+[
+  {
+    "id": "mem_1764578444_65",
+    "timestamp": 1764578444.310359,
+    "datetime": "2025-12-01T14:10:44.310363",
+    "type": "personal_plan",
+    "content": "Planning to learn advanced Python programming concepts this month",
+    "category": "personal",
+    "importance": 5,
+    "semantic_tags": [
+      "technical:python",
+      "keyword:programming",
+      "keyword:concepts",
+      "keyword:planning",
+      "keyword:this",
+      "keyword:learn",
+      "technical:programming",
+      "keyword:python",
+      "temporal:month",
+      "keyword:advanced",
+      "keyword:month"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "coding",
+    "context": {
+      "importance": 5,
+      "semantic_tags": [
+        "technical:python",
+        "keyword:programming",
+        "keyword:concepts",
+        "keyword:planning",
+        "keyword:this",
+        "keyword:learn",
+        "technical:programming",
+        "keyword:python",
+        "temporal:month",
+        "keyword:advanced",
+        "keyword:month"
+      ],
+      "emotional_tone": 0.0,
+      "project_context": "coding",
+      "causal_links": [],
+      "related_memories": []
+    }
+  },
+  {
+    "id": "mem_1764578664_65",
+    "timestamp": 1764578664.3828232,
+    "datetime": "2025-12-01T14:14:24.382826",
+    "type": "personal_plan",
+    "content": "Planning to learn advanced Python programming concepts this month",
+    "category": "personal",
+    "importance": 5,
+    "semantic_tags": [
+      "temporal:month",
+      "keyword:concepts",
+      "keyword:month",
+      "technical:programming",
+      "keyword:programming",
+      "keyword:planning",
+      "keyword:learn",
+      "keyword:this",
+      "technical:python",
+      "keyword:advanced",
+      "keyword:python"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "coding",
+    "context": {
+      "importance": 5,
+      "semantic_tags": [
+        "temporal:month",
+        "keyword:concepts",
+        "keyword:month",
+        "technical:programming",
+        "keyword:programming",
+        "keyword:planning",
+        "keyword:learn",
+        "keyword:this",
+        "technical:python",
+        "keyword:advanced",
+        "keyword:python"
+      ],
+      "emotional_tone": 0.0,
+      "project_context": "coding",
+      "causal_links": [],
+      "related_memories": []
+    }
+  },
+  {
+    "id": "mem_1764578664_49",
+    "timestamp": 1764578664.472903,
+    "datetime": "2025-12-01T14:14:24.472906",
+    "type": "test_context",
+    "content": "User is interested in learning Python programming",
+    "category": "personal",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:interested",
+      "keyword:learning",
+      "technical:programming",
+      "keyword:programming",
+      "technical:python",
+      "keyword:user",
+      "keyword:python"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "coding",
+    "context": {
+      "importance": 5,
+      "semantic_tags": [
+        "keyword:interested",
+        "keyword:learning",
+        "technical:programming",
+        "keyword:programming",
+        "technical:python",
+        "keyword:user",
+        "keyword:python"
+      ],
+      "emotional_tone": 0.0,
+      "project_context": "coding",
+      "causal_links": [],
+      "related_memories": []
+    }
+  },
+  {
+    "id": "mem_1764578887_50",
+    "timestamp": 1764578887.556652,
+    "datetime": "2025-12-01T14:18:07.556655",
+    "type": "learning_goal",
+    "content": "Goal: Master Python programming for AI development",
+    "category": "personal",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:development",
+      "keyword:programming",
+      "keyword:master",
+      "keyword:python",
+      "technical:ai",
+      "technical:python",
+      "technical:programming"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "coding",
+    "context": {
+      "importance": 5,
+      "semantic_tags": [
+        "keyword:development",
+        "keyword:programming",
+        "keyword:master",
+        "keyword:python",
+        "technical:ai",
+        "technical:python",
+        "technical:programming"
+      ],
+      "emotional_tone": 0.0,
+      "project_context": "coding",
+      "causal_links": [],
+      "related_memories": []
+    }
+  },
+  {
+    "id": "mem_1764578887_49",
+    "timestamp": 1764578887.562271,
+    "datetime": "2025-12-01T14:18:07.562275",
+    "type": "action_taken",
+    "content": "Started Python course and practicing daily coding",
+    "category": "personal",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:started",
+      "keyword:python",
+      "keyword:practicing",
+      "technical:ai",
+      "keyword:course",
+      "technical:python",
+      "keyword:coding",
+      "keyword:daily"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "coding",
+    "context": {
+      "importance": 5,
+      "semantic_tags": [
+        "keyword:started",
+        "keyword:python",
+        "keyword:practicing",
+        "technical:ai",
+        "keyword:course",
+        "technical:python",
+        "keyword:coding",
+        "keyword:daily"
+      ],
+      "emotional_tone": 0.0,
+      "project_context": "coding",
+      "causal_links": [],
+      "related_memories": []
+    }
+  },
+  {
+    "id": "mem_1764578887_53",
+    "timestamp": 1764578887.5671077,
+    "datetime": "2025-12-01T14:18:07.567113",
+    "type": "learning_result",
+    "content": "Improved Python skills and completed first AI project",
+    "category": "personal",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:improved",
+      "keyword:completed",
+      "keyword:python",
+      "keyword:first",
+      "keyword:project",
+      "technical:ai",
+      "keyword:skills",
+      "technical:python"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "coding",
+    "context": {
+      "importance": 5,
+      "semantic_tags": [
+        "keyword:improved",
+        "keyword:completed",
+        "keyword:python",
+        "keyword:first",
+        "keyword:project",
+        "technical:ai",
+        "keyword:skills",
+        "technical:python"
+      ],
+      "emotional_tone": 0.0,
+      "project_context": "coding",
+      "causal_links": [],
+      "related_memories": []
+    }
+  }
+]

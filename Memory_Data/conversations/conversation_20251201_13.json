@@ -1,0 +1,82 @@
+[
+  {
+    "id": "mem_1764574559_19",
+    "timestamp": 1764574559.9148731,
+    "datetime": "2025-12-01T13:05:59.914879",
+    "type": "user_input",
+    "content": "Hello, how are you?",
+    "category": "conversation",
+    "importance": 5,
+    "semantic_tags": [],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "general",
+    "context": {
+      "semantic_tags": [],
+      "emotional_tone": 0.0,
+      "importance": 5,
+      "project_context": "general",
+      "related_memories": [],
+      "causal_links": []
+    }
+  },
+  {
+    "id": "mem_1764574559_26",
+    "timestamp": 1764574559.9207168,
+    "datetime": "2025-12-01T13:05:59.920723",
+    "type": "assistant_response",
+    "content": "I'm doing well, thank you!",
+    "category": "conversation",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:thank",
+      "keyword:doing"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "personal",
+    "context": {
+      "semantic_tags": [
+        "keyword:thank",
+        "keyword:doing"
+      ],
+      "emotional_tone": 0.0,
+      "importance": 5,
+      "project_context": "personal",
+      "related_memories": [],
+      "causal_links": []
+    }
+  },
+  {
+    "id": "mem_1764574559_27",
+    "timestamp": 1764574559.9547577,
+    "datetime": "2025-12-01T13:05:59.954764",
+    "type": "user_input",
+    "content": "Testing conversation memory",
+    "category": "conversation",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:conversation",
+      "keyword:memory",
+      "keyword:testing"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "personal",
+    "context": {
+      "semantic_tags": [
+        "keyword:conversation",
+        "keyword:memory",
+        "keyword:testing"
+      ],
+      "emotional_tone": 0.0,
+      "importance": 5,
+      "project_context": "personal",
+      "related_memories": [],
+      "causal_links": []
+    }
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "timestamp": 1764584919.7180007,
+  "input": "hello",
+  "api_response": "Hello! \ud83d\udc4b  \n\nI'm an educational AI assistant designed to provide **comprehensive, structured responses** on a wide range of topics\u2014from science and history to math, languages, technology, and more. Whether you have a question, need explanations, study tips, or help with a project, I'm here to help.  \n\n**What can I assist you with today?** Feel free to ask anything! \ud83d\ude0a",
+  "local_response": "Hi there! I'm glad to see you're enjoying the new app. Would you like me to show you some tips for getting the most out of its features?",
+  "quality_comparison": {
+    "length_advantage": 2.0,
+    "api_longer": true
+  }
+}

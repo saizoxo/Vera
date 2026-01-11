@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mem_1764573309_32",
+    "timestamp": 1764573309.2424371,
+    "datetime": "2025-12-01T12:45:09.242441",
+    "type": "knowledge",
+    "content": "Python is a programming language",
+    "context": {},
+    "category": "knowledge",
+    "importance": 3
+  },
+  {
+    "id": "mem_1764573581_32",
+    "timestamp": 1764573581.8490257,
+    "datetime": "2025-12-01T12:49:41.849030",
+    "type": "knowledge",
+    "content": "Python is a programming language",
+    "context": {},
+    "category": "knowledge",
+    "importance": 3
+  },
+  {
+    "id": "mem_1764573668_32",
+    "timestamp": 1764573668.8902085,
+    "datetime": "2025-12-01T12:51:08.890211",
+    "type": "knowledge",
+    "content": "Python is a programming language",
+    "context": {},
+    "category": "knowledge",
+    "importance": 3
+  }
+]

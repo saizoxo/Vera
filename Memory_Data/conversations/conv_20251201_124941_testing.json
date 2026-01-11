@@ -1,0 +1,24 @@
+{
+  "conversation_id": "conv_20251201_124941_testing",
+  "topic": "testing",
+  "created_at": "20251201_124941",
+  "entries": [
+    {
+      "id": "mem_1764573581_27",
+      "timestamp": 1764573581.8752394,
+      "datetime": "2025-12-01T12:49:41.875244",
+      "type": "user_input",
+      "content": "Testing conversation memory",
+      "context": {},
+      "category": "conversation",
+      "importance": 3
+    }
+  ],
+  "metadata": {
+    "importance": 5,
+    "tags": [
+      "testing"
+    ],
+    "context": {}
+  }
+}

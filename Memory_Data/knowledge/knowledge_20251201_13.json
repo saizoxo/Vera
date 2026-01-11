@@ -1,0 +1,36 @@
+[
+  {
+    "id": "mem_1764574559_32",
+    "timestamp": 1764574559.9281356,
+    "datetime": "2025-12-01T13:05:59.928141",
+    "type": "knowledge",
+    "content": "Python is a programming language",
+    "category": "knowledge",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:language",
+      "keyword:programming",
+      "technical:python",
+      "keyword:python",
+      "technical:programming"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "coding",
+    "context": {
+      "semantic_tags": [
+        "keyword:language",
+        "keyword:programming",
+        "technical:python",
+        "keyword:python",
+        "technical:programming"
+      ],
+      "emotional_tone": 0.0,
+      "importance": 5,
+      "project_context": "coding",
+      "related_memories": [],
+      "causal_links": []
+    }
+  }
+]

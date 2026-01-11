@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mem_1767935690_19",
+    "timestamp": 1767935690.6846895,
+    "datetime": "2026-01-09T10:44:50.684693",
+    "type": "user_input",
+    "content": "Hello, how are you?",
+    "category": "conversation",
+    "importance": 5,
+    "semantic_tags": [],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "general",
+    "context": {
+      "semantic_tags": [],
+      "emotional_tone": 0.0,
+      "importance": 5,
+      "project_context": "general",
+      "related_memories": [],
+      "causal_links": []
+    }
+  },
+  {
+    "id": "mem_1767935690_26",
+    "timestamp": 1767935690.7042246,
+    "datetime": "2026-01-09T10:44:50.704229",
+    "type": "assistant_response",
+    "content": "I'm doing well, thank you!",
+    "category": "conversation",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:thank",
+      "keyword:doing"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "personal",
+    "context": {
+      "semantic_tags": [
+        "keyword:thank",
+        "keyword:doing"
+      ],
+      "emotional_tone": 0.0,
+      "importance": 5,
+      "project_context": "personal",
+      "related_memories": [],
+      "causal_links": []
+    }
+  },
+  {
+    "id": "mem_1767935690_27",
+    "timestamp": 1767935690.7270987,
+    "datetime": "2026-01-09T10:44:50.727102",
+    "type": "user_input",
+    "content": "Testing conversation memory",
+    "category": "conversation",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:memory",
+      "keyword:testing",
+      "keyword:conversation"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "personal",
+    "context": {
+      "semantic_tags": [
+        "keyword:memory",
+        "keyword:testing",
+        "keyword:conversation"
+      ],
+      "emotional_tone": 0.0,
+      "importance": 5,
+      "project_context": "personal",
+      "related_memories": [],
+      "causal_links": []
+    }
+  },
+  {
+    "id": "mem_1767935762_19",
+    "timestamp": 1767935762.1445622,
+    "datetime": "2026-01-09T10:46:02.144566",
+    "type": "user_input",
+    "content": "Hello, how are you?",
+    "category": "conversation",
+    "importance": 5,
+    "semantic_tags": [],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "general",
+    "context": {
+      "semantic_tags": [],
+      "emotional_tone": 0.0,
+      "importance": 5,
+      "project_context": "general",
+      "related_memories": [],
+      "causal_links": []
+    }
+  },
+  {
+    "id": "mem_1767935762_26",
+    "timestamp": 1767935762.1491354,
+    "datetime": "2026-01-09T10:46:02.149140",
+    "type": "assistant_response",
+    "content": "I'm doing well, thank you!",
+    "category": "conversation",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:doing",
+      "keyword:thank"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "personal",
+    "context": {
+      "semantic_tags": [
+        "keyword:doing",
+        "keyword:thank"
+      ],
+      "emotional_tone": 0.0,
+      "importance": 5,
+      "project_context": "personal",
+      "related_memories": [],
+      "causal_links": []
+    }
+  },
+  {
+    "id": "mem_1767935762_27",
+    "timestamp": 1767935762.1730251,
+    "datetime": "2026-01-09T10:46:02.173029",
+    "type": "user_input",
+    "content": "Testing conversation memory",
+    "category": "conversation",
+    "importance": 5,
+    "semantic_tags": [
+      "keyword:testing",
+      "keyword:memory",
+      "keyword:conversation"
+    ],
+    "emotional_tone": 0.0,
+    "causal_links": [],
+    "related_memories": [],
+    "project_context": "personal",
+    "context": {
+      "semantic_tags": [
+        "keyword:testing",
+        "keyword:memory",
+        "keyword:conversation"
+      ],
+      "emotional_tone": 0.0,
+      "importance": 5,
+      "project_context": "personal",
+      "related_memories": [],
+      "causal_links": []
+    }
+  }
+]

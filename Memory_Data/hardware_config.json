@@ -1,0 +1,74 @@
+{
+  "supported_backends": [
+    "CPU (AVX, AVX2, AVX512, AMX)",
+    "Apple Silicon (Metal, Accelerate)",
+    "NVIDIA GPU (CUDA)",
+    "AMD GPU (HIP)",
+    "Intel GPU (SYCL, AMX)",
+    "Moore Threads GPU (MUSA)",
+    "Vulkan GPU",
+    "ARM NEON (mobile)"
+  ],
+  "optimization_levels": {
+    "cpu_optimized": {
+      "features": [
+        "SIMD",
+        "Multi-threading",
+        "Cache optimization"
+      ],
+      "performance_boost": "2-4x"
+    },
+    "gpu_optimized": {
+      "features": [
+        "CUDA kernels",
+        "GPU offloading",
+        "VRAM management"
+      ],
+      "performance_boost": "5-20x"
+    },
+    "hybrid": {
+      "features": [
+        "CPU+GPU",
+        "Partial acceleration",
+        "Memory management"
+      ],
+      "performance_boost": "3-15x"
+    }
+  },
+  "platform_specific": {
+    "apple_silicon": {
+      "frameworks": [
+        "Metal",
+        "Accelerate",
+        "ARM NEON"
+      ],
+      "optimizations": [
+        "Unified memory",
+        "Efficient cores",
+        "Performance cores"
+      ]
+    },
+    "nvidia_gpu": {
+      "features": [
+        "CUDA",
+        "Tensor cores",
+        "VRAM optimization"
+      ],
+      "quantization": [
+        "FP16",
+        "INT8",
+        "INT4"
+      ]
+    },
+    "amd_gpu": {
+      "features": [
+        "HIP",
+        "Matrix cores"
+      ],
+      "optimizations": [
+        "VRAM management",
+        "Multi-GPU"
+      ]
+    }
+  }
+}

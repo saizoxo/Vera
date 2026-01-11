@@ -1,0 +1,44 @@
+{
+  "conversation_id": "conv_20260109_104450_testing",
+  "topic": "testing",
+  "created_at": "20260109_104450",
+  "entries": [
+    {
+      "id": "mem_1767935690_27",
+      "timestamp": 1767935690.7270987,
+      "datetime": "2026-01-09T10:44:50.727102",
+      "type": "user_input",
+      "content": "Testing conversation memory",
+      "category": "conversation",
+      "importance": 5,
+      "semantic_tags": [
+        "keyword:memory",
+        "keyword:testing",
+        "keyword:conversation"
+      ],
+      "emotional_tone": 0.0,
+      "causal_links": [],
+      "related_memories": [],
+      "project_context": "personal",
+      "context": {
+        "semantic_tags": [
+          "keyword:memory",
+          "keyword:testing",
+          "keyword:conversation"
+        ],
+        "emotional_tone": 0.0,
+        "importance": 5,
+        "project_context": "personal",
+        "related_memories": [],
+        "causal_links": []
+      }
+    }
+  ],
+  "metadata": {
+    "importance": 5,
+    "tags": [
+      "testing"
+    ],
+    "context": {}
+  }
+}

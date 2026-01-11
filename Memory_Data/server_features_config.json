@@ -1,0 +1,46 @@
+{
+  "api_endpoints": [
+    "/v1/chat/completions",
+    "/v1/completions",
+    "/v1/embeddings",
+    "/v1/reranking",
+    "/v1/models",
+    "/v1/tokenize",
+    "/v1/detokenize",
+    "/v1/health"
+  ],
+  "advanced_features": [
+    "speculative_decoding",
+    "grammar_constrained_output",
+    "batch_processing",
+    "streaming_responses",
+    "model_unloading",
+    "parallel_processing",
+    "memory_management",
+    "request_cancellation"
+  ],
+  "performance_optimizations": [
+    "continuous_batching",
+    "tensor_parallelism",
+    "pipeline_parallelism",
+    "quantized_computation",
+    "cache_optimization"
+  ],
+  "model_support": [
+    "LLaMA 1/2/3",
+    "Mistral",
+    "Mixtral",
+    "Gemma",
+    "Qwen",
+    "Phi",
+    "Command-R",
+    "DBRX",
+    "Jamba",
+    "Mamba",
+    "Grok",
+    "BERT",
+    "Flan T5",
+    "ChatGLM",
+    "StableLM"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "timestamp": 1764584755.504726,
+  "server_url": "http://localhost:8080",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are Vera_XT, a helpful AI assistant. Engage in natural conversation.",
+      "timestamp": 1764584679.2400994
+    },
+    {
+      "role": "user",
+      "content": "do yk my name?",
+      "timestamp": 1764584685.4731476
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, my name is Vera_XT. How about you?",
+      "timestamp": 1764584689.789381
+    },
+    {
+      "role": "user",
+      "content": "my name is sarib",
+      "timestamp": 1764584700.5067828
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, that's a great name. I can learn from you to improve my AI skills.",
+      "timestamp": 1764584702.7863693
+    },
+    {
+      "role": "user",
+      "content": "ummm i created you for me",
+      "timestamp": 1764584717.4474661
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I can do that. You want me to learn how to write a dialogue with you?",
+      "timestamp": 1764584719.6993139
+    }
+  ]
+}

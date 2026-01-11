@@ -1,0 +1,43 @@
+{
+  "endpoints": {
+    "health": "/health",
+    "metrics": "/metrics",
+    "models": "/v1/models"
+  },
+  "checks": [
+    {
+      "name": "server_responding",
+      "endpoint": "/health",
+      "method": "GET",
+      "timeout": 5
+    },
+    {
+      "name": "api_functional",
+      "endpoint": "/v1/models",
+      "method": "GET",
+      "timeout": 10
+    },
+    {
+      "name": "model_loaded",
+      "endpoint": "/v1/chat/completions",
+      "method": "POST",
+      "timeout": 30,
+      "test_payload": {
+        "model": "test",
+        "messages": [
+          {
+            "role": "user",
+            "content": "ping"
+          }
+        ],
+        "max_tokens": 5
+      }
+    }
+  ],
+  "alert_thresholds": {
+    "response_time_warning": 2.0,
+    "response_time_critical": 5.0,
+    "error_rate_warning": 0.05,
+    "error_rate_critical": 0.1
+  }
+}
